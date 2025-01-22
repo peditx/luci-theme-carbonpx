@@ -29,7 +29,7 @@ jobs:
       - name: Add luci-theme-carbonpx package
         run: |
           cd sdk/package
-          git clone https://github.com/carbonpx/luci-theme-carbonpx
+          git clone https://github.com/peditx/luci-theme-carbonpx
           cd .. 
           echo "CONFIG_PACKAGE_luci-theme-carbonpx=m" >> .config
       - name: Build luci-theme-carbonpx
