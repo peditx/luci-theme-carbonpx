@@ -42,13 +42,13 @@
  }
 
  a {
- 	color: hsl(106, 90%, 54%);
+ 	color: hsl(133, 100%, 50%);
  	text-decoration: none;
  	background-color: transparent;
  }
 
  b {
- 	color: #5aee66;
+ 	color: #00eeff;
  	text-decoration: none;
  	background-color: transparent;
  	font-family: "Quicksand-Bold";
@@ -176,22 +176,22 @@
  }
 
  :root {
- 	--main-color: rgb(65, 204, 0);
+ 	--main-color: rgb(5, 5, 5);
  	--header-bg: #161624;
  	--header-color: rgb(10, 10, 10);
- 	--bar-bg: #3f3f3f69;
+ 	--bar-bg: #00000069;
  	--menu-bg-color: #fff;
- 	--menu-color: #5f6368;
+ 	--menu-color: #000000;
  	--menu-color-hover: #202124;
  	--main-menu-color: #202124;
- 	--submenu-bg-hover: #4da560;
- 	--submenu-bg-hover-active: rgb(41, 204, 0);
+ 	--submenu-bg-hover: #66ff00;
+ 	--submenu-bg-hover-active: rgb(0, 0, 0);
  	--font-body: 'Inter-Regular';
  }
 
  tt {
  	font-family: "Quicksand-Bold";
- 	color: #09c;
+ 	color: rgb(137, 196, 44);
  }
 
  em {
@@ -458,7 +458,7 @@
  	height: 4rem;
  	transition: box-shadow 0.2s;
  	color: var(--header-color);
- 	background: #2222359a;
+ 	background: #0000009a;
  	backdrop-filter: blur(10px);
  	-webkit-backdrop-filter: blur(10px);
  }
@@ -562,7 +562,7 @@
  	align-items: center;
  	color: #e6e6e696;
  	border-bottom: 0;
- 	background-color: #2222359a;
+ 	background-color: #0000009a;
  	border-radius: 10px;
  	padding: 9px;
  	padding-bottom: 3px;
@@ -727,7 +727,7 @@
  	top: 12.5%;
  	display: block;
  	text-align: center;
- 	color: #888;
+ 	color: #000000;
  }
 
  .main>.loading>span>.loading-img {
@@ -800,7 +800,7 @@
  	width: calc(0% + 16rem);
  	float: left;
  	overflow-x: auto;
- 	background-color: #2222359a;
+ 	background-color: #0707079a;
  	transition: visibility 400ms, width 400ms;
  	border-top-left-radius: 0px;
  	border-top-right-radius: 20px;
@@ -1018,7 +1018,7 @@
  }
 
  .success {
- 	background-color: #5cb85c !important;
+ 	background-color: #33ff00 !important;
  }
 
  .error {
@@ -1031,7 +1031,7 @@
  	margin-bottom: 1em;
  	border: 0;
  	border-radius: 20px;
- 	background-color: #2222359a;
+ 	background-color: #0000009a;
  	padding: 1rem;
  	margin: 1rem;
  }
@@ -1176,7 +1176,7 @@
  }
 
  .cbi-tab-descr {
- 	color: #09c;
+ 	color: rgb(0, 0, 0);
  	margin: 1em;
  	padding: 1rem;
  }
@@ -1202,7 +1202,7 @@
  	min-width: inherit;
  	border: 0;
  	border-radius: 0;
- 	background-color: #2222359a;
+ 	background-color: #22223500;
  	margin: 1rem 0 0;
  	padding: 2rem;
  	border-radius: 20px;
@@ -1246,7 +1246,7 @@
  	width: 100%;
  	padding-bottom: 1rem;
  	color: #e4e4e4;
- 	border-bottom: thin solid #eeeeee00;
+ 	border-bottom: thin solid #00000000;
  	margin: 0 0 0.5rem;
  }
 
@@ -1433,7 +1433,7 @@
  .cbi-button-neutral[onclick="handleConfig(event)"] {
  	font-weight: 400;
  	color: #fff;
- 	background-color: rgba(123, 255, 0, 0.47);
+ 	background-color: rgba(0, 0, 0, 0.47);
  	border-radius: 20px;
  }
 
@@ -1449,7 +1449,7 @@
  .cbi-button[onclick="addKey(event)"] {
  	font-weight: 400;
  	color: #fff;
- 	background-color: rgba(51, 255, 0, 0.47);
+ 	background-color: rgba(0, 0, 0, 0.47);
  	border-radius: 20px;
  }
 
@@ -1488,8 +1488,8 @@
  .cbi-button[value="Save mtdblock"] {
  	font-weight: 400;
  	color: #fff;
- 	border: thin solid #4cae4c;
- 	background-color: #5cb85c;
+ 	border: thin solid #000000;
+ 	background-color: #222222;
  }
 
  .a-to-btn {
@@ -1504,7 +1504,7 @@
 
  .tabs {
  	border-bottom: 0;
- 	background-color: #2222359a;
+ 	background-color: #0000009a;
  	border-radius: 20px;
  	padding: 9px;
  	padding-bottom: 3px;
@@ -1524,7 +1524,7 @@
  }
 
  .tool_label_span {
- 	color: rgb(136, 255, 0);
+ 	color: rgb(0, 0, 0);
  }
 
  .tabs>li {
@@ -1555,7 +1555,7 @@
 
  .cbi-tabmenu {
  	border-bottom: 0;
- 	background-color: #2222359a;
+ 	background-color: #0000009a;
  	border-radius: 20px;
  	padding: 9px;
  	padding-bottom: 3px;
@@ -1572,7 +1572,7 @@
  }
 
  .cbi-tabmenu>li[class~="cbi-tab"] {
- 	background-color: #ff94946a;
+ 	background-color: #b815006a;
  	border-radius: 20px;
  }
 
@@ -1745,7 +1745,7 @@
  	max-width: 25rem;
  	margin-right: 2em;
  	pointer-events: none;
- 	color: #666;
+ 	color: #000000;
  	border-bottom: 2px solid rgba(0, 0, 0, 0.26);
  	outline: 0;
  	padding: 0.5em 0.25em 0.25em 0;
@@ -1860,7 +1860,7 @@
  .cbi-dropdown>ul>li[placeholder] {
  	font-weight: 700;
  	display: none;
- 	color: #777;
+ 	color: #747474;
  }
 
  .cbi-dropdown>ul>li {
@@ -1935,11 +1935,11 @@
  .cbi-dropdown[open]>ul.dropdown>li {}
 
  .cbi-dropdown[open]>ul.dropdown>li[selected] {
- 	background: #b0f0c5;
+ 	background: #444644;
  }
 
  .cbi-dropdown[open]>ul.dropdown>li.focus {
- 	background: linear-gradient(90deg, #a3e8be 0%, #84d992 100%);
+ 	background: linear-gradient(90deg, #636664 0%, #242724 100%);
  }
 
  .cbi-dropdown[open]>ul.dropdown>li:last-child {
@@ -1965,7 +1965,7 @@
  	position: relative;
  	min-width: 170px;
  	height: 30px;
- 	background: #11111d61;
+ 	background: #00000061;
  	margin: 6px 0;
  }
 
@@ -1982,7 +1982,7 @@
  	width: 0;
  	height: 100%;
  	transition: width 2s ease-in;
- 	background: #11cc00;
+ 	background: #000000;
  	padding: 0.5rem;
  }
 
@@ -2028,7 +2028,7 @@
  	max-width: 600px;
  	min-height: 32px;
  	border-radius: 20px !important;
- 	background: #8f8f8f75;
+ 	background: #00000075;
  	margin: 5em auto;
  	backdrop-filter: blur(10px);
  	-webkit-backdrop-filter: blur(10px);
@@ -2167,7 +2167,7 @@
 
  .ifacebadge {
  	display: inline-flex;
- 	background: #ffffff33;
+ 	background: #00000033;
  	padding: 0.5rem 0.8rem;
  	border-radius: 10px;
  }
@@ -2250,7 +2250,7 @@
  .uci-change-legend-label ins {
  	display: block;
  	text-decoration: none;
- 	border: thin solid #0f0;
+ 	border: thin solid rgb(15, 15, 15);
  	background-color: #cfc;
  	padding: 2px;
  }
@@ -2320,7 +2320,7 @@
  	display: inline-flex;
  	flex-direction: column;
  	min-width: 100px;
- 	background-color: #54545450;
+ 	background-color: #00000050;
  	border-radius: 20px;
  	flex-wrap: nowrap;
  	align-content: center;
@@ -2331,12 +2331,12 @@
 
  div.ifacebox-head {
  	--zone-color-rgb: 144, 240, 144;
- 	background-color: rgb(43, 79, 43);
+ 	background-color: rgb(0, 0, 0);
  }
 
  style attribute {
  	--zone-color-rgb: 144, 240, 144;
- 	background-color: rgb(43, 79, 43);
+ 	background-color: rgb(0, 0, 0);
  }
 
  .ifacebox-head {
@@ -2409,7 +2409,7 @@
  td.cbi-value-field var,
  .td.cbi-value-field var {
  	font-style: italic;
- 	color: #12d600;
+ 	color: #000000;
  }
 
  .cbi-optionals {
@@ -2511,7 +2511,7 @@
  	transition: opacity 400ms, visibility 400ms;
  	visibility: hidden;
  	opacity: 0;
- 	background-color: #2222359a;
+ 	background-color: #000000f3;
  }
 
  #diag-rc-output>pre,
@@ -3335,7 +3335,7 @@
  		display: block;
  		flex: 1 1 100%;
  		border-bottom: thin solid rgba(0, 0, 0, 0.26);
- 		background: #90c0e0;
+ 		background: #1e2022;
  	}
 
  	.cbi-button+.cbi-button {
