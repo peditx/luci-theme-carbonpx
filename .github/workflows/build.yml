@@ -1,4 +1,4 @@
-name: Build and Release luci-theme-peditx
+name: Build and Release luci-theme-carbonpx
 
 on:
   push:
@@ -26,18 +26,18 @@ jobs:
           echo "src-git luci https://github.com/openwrt/luci.git" >> feeds.conf.default
           ./scripts/feeds update -a
           ./scripts/feeds install -a
-      - name: Add luci-theme-peditx package
+      - name: Add luci-theme-carbonpx package
         run: |
           cd sdk/package
-          git clone https://github.com/peditx/luci-theme-peditx
+          git clone https://github.com/carbonpx/luci-theme-carbonpx
           cd .. 
-          echo "CONFIG_PACKAGE_luci-theme-peditx=m" >> .config
-      - name: Build luci-theme-peditx
+          echo "CONFIG_PACKAGE_luci-theme-carbonpx=m" >> .config
+      - name: Build luci-theme-carbonpx
         run: |
           cd sdk
           make defconfig
-          make package/luci-theme-peditx/compile -j1 V=sc
-      - name: Save luci-theme-peditx package
+          make package/luci-theme-carbonpx/compile -j1 V=sc
+      - name: Save luci-theme-carbonpx package
         run: |
           cd sdk
           mkdir -p artifacts
@@ -48,9 +48,9 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v1.1.2
-          name: luci-theme-peditx release - ${{env.timestamp}}
-          body: latest release of luci-theme-peditx theme for OpenWrt.
-          files: sdk/artifacts/luci-theme-peditx_*.ipk
+          name: luci-theme-carbonpx release - ${{env.timestamp}}
+          body: latest release of luci-theme-carbonpx theme for OpenWrt.
+          files: sdk/artifacts/luci-theme-carbonpx_*.ipk
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           timestamp: ${{ github.run_id }}
