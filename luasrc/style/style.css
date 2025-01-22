@@ -41,7 +41,7 @@ h2 {
 }
 
 h3 {
-	color: #032942;
+	color: #00ff37;
 	text-align: right;
 }
 
@@ -327,8 +327,8 @@ input[type=submit] {
 	color: #fff;
 	line-height: 40px;
 	text-align: center;
-	background-color: #0c5091;
-	border: 1px #075fa7 solid;
+	background-color: #57910c;
+	border: 1px #27a707 solid;
 	opacity: 1;
 	cursor: pointer;
 }
