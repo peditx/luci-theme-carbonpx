@@ -1,6 +1,6 @@
 # Тема PeDitX для OpenWrt
 
-![Баннер PeDitX](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/luasrc/brand.png)
+![Баннер PeDitX](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/luasrc/brand.png)
 
 ## Выбор языка:
 
@@ -17,7 +17,7 @@ PeDitX — это тема, специально разработанная дл
 - Основана на Bootstrap-теме
 
 ## Ссылки для загрузки:
-[![Скачать PeDitX для OpenWrt](https://img.shields.io/github/downloads/peditx/luci-theme-peditx/total.svg)](https://github.com/peditx/luci-theme-peditx/releases)
+[![Скачать PeDitX для OpenWrt](https://img.shields.io/github/downloads/peditx/luci-theme-carbonpx/total.svg)](https://github.com/peditx/luci-theme-carbonpx/releases)
 
 ## Лицензия:
 [![Лицензия Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
