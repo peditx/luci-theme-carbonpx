@@ -45,6 +45,7 @@ This theme has not been tested on the **LEDE** version.
 ## Special Thanks:
 
 - [PeDitX](https://github.com/peditx)
+- [LuCI-theme-PeDitX](https://github.com/peditx/luci-theme-peditx)
 - [PeDitXRT](https://github.com/peditx/peditxrt)
 - [OpenWrt](https://github.com/openwrt)
 - [ImmortalWrt](https://github.com/immortalwrt)
