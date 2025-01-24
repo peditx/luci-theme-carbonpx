@@ -33,14 +33,14 @@ PeDitX 是专为 OpenWrt 设计的主题，特别是为移动设备优化。它�
 ## 预览图像：
 
 ### 电脑截图：
-![截图 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/1.png)
-![截图 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/2.png)
-![截图 3](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/3.png)
-![截图 4](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/4.png)
+![截图 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/1.png)
+![截图 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/2.png)
+![截图 3](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/3.png)
+![截图 4](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/4.png)
 
 ### 移动截图：
-![移动截图 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m1.PNG)
-![移动截图 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m2.PNG)
+![移动截图 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m1.PNG)
+![移动截图 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m2.PNG)
 
 ## 特别感谢：
 
