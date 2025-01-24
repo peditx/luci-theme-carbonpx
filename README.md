@@ -1,6 +1,6 @@
 # PeDitX Theme for OpenWrt
 
-![PeDitX Banner](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/luasrc/brand.png)
+![PeDitX Banner](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/luasrc/brand.png)
 
 ## Language Selection:
 
@@ -17,7 +17,7 @@ PeDitX is a theme designed for OpenWrt, specifically optimized for mobile device
 - Built upon the Bootstrap theme
 
 ## Download Links:
-[![Download PeDitX Theme](https://img.shields.io/github/downloads/peditx/luci-theme-peditx/total.svg)](https://github.com/peditx/luci-theme-peditx/releases)
+[![Download PeDitX Theme](https://img.shields.io/github/downloads/peditx/luci-theme-carbonpx/total.svg)](https://github.com/peditx/luci-theme-carbonpx/releases)
 
 ## License:
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
