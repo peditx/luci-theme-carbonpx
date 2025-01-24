@@ -1,4 +1,4 @@
-# PeDitX Theme for OpenWrt
+# CarbonPX Theme for OpenWrt
 
 ![PeDitX Banner](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/luasrc/brand.png)
 
