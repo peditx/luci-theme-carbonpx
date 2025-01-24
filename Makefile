@@ -10,7 +10,7 @@ THEME_NAME:=carbonpx
 THEME_TITLE:=carbonPX
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
-PKG_VERSION:=1.1.2
+PKG_VERSION:=1.0.2
 PKG_RELEASE:=01
 
 include $(INCLUDE_DIR)/package.mk
