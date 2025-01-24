@@ -33,18 +33,19 @@ PeDitX — это тема, специально разработанная дл
 ## Изображения превью:
 
 ### Скриншоты для компьютера:
-![Скриншот 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/1.png)
-![Скриншот 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/2.png)
-![Скриншот 3](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/3.png)
-![Скриншот 4](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/4.png)
+![Скриншот 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/1.png)
+![Скриншот 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/2.png)
+![Скриншот 3](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/3.png)
+![Скриншот 4](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/4.png)
 
 ### Скриншоты для мобильных устройств:
-![Скриншот мобильного 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m1.PNG)
-![Скриншот мобильного 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m2.PNG)
+![Скриншот мобильного 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m1.PNG)
+![Скриншот мобильного 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m2.PNG)
 
 ## Особая благодарность:
 
 - [PeDitX](https://github.com/peditx)
+- [LuCI-theme-PeDitX](https://github.com/peditx/luci-theme-peditx)
 - [PeDitXRT](https://github.com/peditx/peditxrt)
 - [OpenWrt](https://github.com/openwrt)
 - [ImmortalWrt](https://github.com/immortalwrt)
