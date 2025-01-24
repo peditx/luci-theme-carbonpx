@@ -45,6 +45,7 @@ PeDitX 是专为 OpenWrt 设计的主题，特别是为移动设备优化。它�
 ## 特别感谢：
 
 - [PeDitX](https://github.com/peditx)
+- [LuCI-theme-PeDitX](https://github.com/peditx/luci-theme-peditx)
 - [PeDitXRT](https://github.com/peditx/peditxrt)
 - [OpenWrt](https://github.com/openwrt)
 - [ImmortalWrt](https://github.com/immortalwrt)
