@@ -33,14 +33,14 @@ This theme has not been tested on the **LEDE** version.
 ## Preview Images:
 
 ### Computer Screenshots:
-![Screenshot 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/1.png)
-![Screenshot 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/2.png)
-![Screenshot 3](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/3.png)
-![Screenshot 4](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/4.png)
+![Screenshot 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/2.png)
+![Screenshot 3](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/3.png)
+![Screenshot 4](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/4.png)
 
 ### Mobile Screenshots:
-![Mobile Screenshot 1](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m1.PNG)
-![Mobile Screenshot 2](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/screenshots/m2.PNG)
+![Mobile Screenshot 1](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m1.PNG)
+![Mobile Screenshot 2](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/screenshots/m2.PNG)
 
 ## Special Thanks:
 
