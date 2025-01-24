@@ -1,6 +1,6 @@
 # PeDitX 主题适用于 OpenWrt
 
-![PeDitX 横幅](https://raw.githubusercontent.com/peditx/luci-theme-peditx/refs/heads/main/luasrc/brand.png)
+![PeDitX 横幅](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/luasrc/brand.png)
 
 ## 语言选择：
 
@@ -17,7 +17,7 @@ PeDitX 是专为 OpenWrt 设计的主题，特别是为移动设备优化。它�
 - 基于 Bootstrap 主题构建
 
 ## 下载链接：
-[![下载 PeDitX 主题](https://img.shields.io/github/downloads/peditx/luci-theme-peditx/total.svg)](https://github.com/peditx/luci-theme-peditx/releases)
+[![下载 PeDitX 主题](https://img.shields.io/github/downloads/peditx/luci-theme-carbonpx/total.svg)](https://github.com/peditx/luci-theme-carbonpx/releases)
 
 ## 许可证：
 [![许可证：Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
