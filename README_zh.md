@@ -1,4 +1,4 @@
-# PeDitX 主题适用于 OpenWrt
+# CarbonPX 主题适用于 OpenWrt
 
 ![PeDitX 横幅](https://raw.githubusercontent.com/peditx/luci-theme-carbonpx/refs/heads/main/luasrc/brand.png)
 
