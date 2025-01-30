@@ -47,7 +47,7 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v1.0.3
+          tag_name: v1.0.4-1
           name: luci-theme-carbonpx release - ${{env.timestamp}}
           body: latest release of luci-theme-carbonpx theme for OpenWrt.
           files: sdk/artifacts/luci-theme-carbonpx_*.ipk
