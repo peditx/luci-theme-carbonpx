@@ -1,22 +1,26 @@
-Copyright © 2025 PeDitX. All rights reserved.
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
 
-This software and its associated files (the "Software") are the exclusive property of PeDitX.
+Copyright (C) 2025 PeDitX
+All rights reserved.
 
-By accessing, downloading, or using this Software, you agree to the following terms:
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
 
-1. **Usage Restrictions**: 
-   - The Software may not be used, copied, modified, distributed, or sold without explicit written permission from PeDitX.
-   - Unauthorized use of this Software is strictly prohibited and may result in legal action.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
 
-2. **Liability**:
-   - The Software is provided "AS IS," without warranties of any kind, express or implied.
-   - PeDitX is not liable for any damages or losses resulting from the use of this Software.
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-3. **Intellectual Property**:
-   - All trademarks, logos, and copyrights associated with this Software remain the sole property of PeDitX.
-   - Any attempt to reverse-engineer, decompile, or extract the source code of this Software is strictly prohibited.
-
-4. **Termination**:
-   - PeDitX reserves the right to terminate access to this Software at any time without prior notice.
-
-For inquiries or permission requests, please contact: [peditx@gmail.com
+-------------------------------------------------------------
+Special Notice:
+This project and all its contents are part of PeDitX.
+Any use of this software must comply with the AGPL-3.0 license terms.
+Commercial usage, redistribution, or modification must retain this
+copyright notice and reference to PeDitX.
+-------------------------------------------------------------
